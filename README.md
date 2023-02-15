@@ -1,1 +1,1 @@
-learnjs-tasks
+Walkthrough learn JS
